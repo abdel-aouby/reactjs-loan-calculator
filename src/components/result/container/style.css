@@ -1,0 +1,18 @@
+.result-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px 5px;
+}
+
+.result {
+  padding: 46px 42px 32px;
+  background-color: #fff;
+  box-shadow: 0 25px 52px 0 rgb(0 0 0 / 15%);
+}
+
+.loan-info {
+  padding: 25px;
+  background-color: #f8f8f8;
+  border: 1px #dfdfdf solid;
+  border-radius: 5px 0 0 5px;
+}

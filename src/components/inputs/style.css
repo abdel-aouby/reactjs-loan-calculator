@@ -1,0 +1,13 @@
+.input-element[type="range"] {
+  width: 100%;
+}
+
+.input-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.min-max-container {
+  display: flex;
+  justify-content: space-between;
+}
